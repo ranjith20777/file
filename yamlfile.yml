@@ -1,0 +1,13 @@
+"EC2Instance":
+  "Type": "AWS::EC2::instaaance",
+  "properties":
+    "Avaliability Zone": "South-east1",
+    "ImageId": "ami-347589859669568",
+    
+-------
+"EC2Instance":
+  "Type": "AWS::EC2::instaaance",
+  "properties":
+    "Avaliability Zone": "South-east1",
+    "ImageId": "ami-347589859669568",
+    
