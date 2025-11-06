@@ -1,0 +1,33 @@
+commands on linux  
+
+1. pwd Present working directory
+2. cd chnage directory
+3. ls list of files and directory
+4. whoami Current user 
+5. ls -l long listing files 
+6. cat Read the data 
+7. * zero or more characters
+8. ? any single character
+9. [abc] combination of character 
+10. [^abc] not a not b not c remaning will execute 
+11. ln links hard and soft link 
+12. hard link -ln FN same inode numbers can create multiplr files if you delete main file same we can see inanother file
+13. soft link - ln -s FN different inode numbers can't create muliplte files 
+14. head -n 5 file name first 5 digits execute  
+15. tail -n 5 file name last 5 details execute.
+16.  .. parent directory 
+17.  > utput direction 2> error redirection &> cobination of out put and error redirection 
+18.  cd ~ userhome directory 
+19. cd - previous home directory 
+20. ssh is login local machine to remote machine 
+21. useradd -g -m -d -p -s /bin/bash ranjith
+22. useradd create a users
+23. -m create a home directory 
+24. change the default home directory -d
+25. -g is group 
+26 passwd -p 
+27 shell -s 
+28. ssh-keygen is a key generated public and private key  public key store in userhomedirectory in system ~/.ssh/authorizedkey
+29. private key is for use credatinal liike using passwd and secerete secure 
+FIND SEARCH for the FILE
+gREP SEARCH FOR THE word
